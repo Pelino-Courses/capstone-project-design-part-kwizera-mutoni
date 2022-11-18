@@ -1,12 +1,12 @@
 # Capstone Project - UI Design
 
-## Member 1 Registration Number:
+## Member 1 Registration Number:220020172
 
-## Member 2 Registration Number:
+## Member 2 Registration Number:220006868
 
-## Department:
+## Department:Information system YEAR 3
 
-## Figma Design URL:
+## Figma Design URL:https://www.figma.com/file/iA828BPFqC11NdFDLNSJAe/Conference_App?node-id=0%3A1&t=W7eZeH0qrnd7mcm4-0
 
 ## Scenario
 
