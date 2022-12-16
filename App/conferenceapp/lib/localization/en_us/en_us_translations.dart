@@ -1,0 +1,33 @@
+final Map<String, String> enUs = {
+  'msg_network_err': 'Network Error',
+  'msg_something_went_wrong': 'Something Went Wrong!',
+  "lbl_meetings": "Meetings",
+  "msg_call_lecture_pelin": "Call Lecture Pelin",
+  "msg_04_45_pm_5_00": "04:45 PM - 5:00 PM",
+  "msg_here_you_can_create_view":
+      "Here you can create,view and manage all\nyour meetings .",
+  "lbl_last_name": "Last Name",
+  "msg_08_30_am_09_30": "08:30 AM - 09:30 AM",
+  "lbl_staff_meeting": "Staff Meeting",
+  "msg_10_00_am_11_am": "10:00 AM - 11:AM",
+  "lbl_first_name": "First Name",
+  "msg_projects_planning": "Projects Planning",
+  "lbl_login": "Login",
+  "msg_asking_about_cat": "Asking about CAT",
+  "msg_contnue_with_google": "Contnue with Google!",
+  "msg_confirm_password": "Confirm \nPassword",
+  "lbl_today_nov_19": "Today, Nov 19",
+  "lbl_password2": "Password",
+  "lbl_create_account": "Create Account",
+  "lbl_today_nov_18": "Today, Nov 18",
+  "msg_prepare_for_m_a_d": "Prepare for M.A.D CAT ",
+  "msg_02_00_pm_04_pm": "02:00 PM - 04 PM",
+  "msg_welcome_to_your":
+      "Welcome to your Conference,\nEvent planner MeetUps \nMobile App!",
+  "lbl_get_started": "Get started!",
+  "lbl_password": "Password:",
+  "msg_forgot_password": "Forgot Password?",
+  "msg_note_the_time_should": "Note: The time should be respected!",
+  "lbl_username": "UserName:",
+  "lbl_register": "Register"
+};
